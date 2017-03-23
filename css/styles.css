@@ -1,0 +1,13 @@
+h1 {
+  font-family: cursive;
+  cursor: pointer;
+  color: #0088cc;
+}
+
+h1:hover {
+    text-decoration: underline;
+}
+
+img, p {
+  display: none;
+}
